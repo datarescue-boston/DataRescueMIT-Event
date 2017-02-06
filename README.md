@@ -1,7 +1,7 @@
-### Welcome to DataRescueNYC Feb 4 2017! Please: 
+### Welcome to DataRescue SF Bay Feb 11 2017! Please: 
 
 * **Review the [Code of Conduct](https://docs.google.com/document/d/1bmMTOCgzZslkQwy03NoqX4pEFFDFyMoEQDro7h35E7c/edit)**
-* **Join the Slack: http://archivers-slack.herokuapp.com,** and the **#nyc channel**
+* **Join the Slack: https://datarescuesf-slack.herokuapp.com,**
 * **Familiarize yourself with the four tracks, and think about which you would join:** 
   * 1) Web archiving, 2) Data archiving, 3) Storytelling, 4) Next Steps
 * **On the day of the event, sign in at the groundfloor registration table, and go to where your track is gathering** (*FYI* Next Steps might not convene until the afternoon)
