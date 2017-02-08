@@ -43,11 +43,7 @@ More colloquially:
 
 
 ### [id].html file
-The first thing you'll want to create is a html copy of the page in question. The html file gives the archive a snapshot of the page at the time of archiving which we can use to monitor for changing data in the future, and corrobrate the provenance of the archive itself. We can also use the .html in conjunction with the scripts you'll include in the tools directory to replicate the archive in the future. To generate the html file, navigate to your new folder and issue a command like:
-
-	wget -O DAFD2E80-965F-4989-8A77-843DE716D899.html  http://www.eia.gov/electricity/data/eia412/
-
-You'll replace ```DAFD2E80-965F-4989-8A77-843DE716D899.html``` with the UUID + .html, and the url with the one you're looking at.
+The Zip Starter will create an HTML file in the directory. The html file gives the archive a snapshot of the page at the time of archiving which we can use to monitor for changing data in the future, and corrobrate the provenance of the archive itself. We can also use the .html in conjunction with the scripts you'll include in the tools directory to replicate the archive in the future.
 
 ### [id].json file
 You'll need to inspect the .json manifest to be sure all fields are correct. This file contains vital data, including the url that was archived, and date of archiving. The manifest should contain the following fields:
