@@ -1,7 +1,7 @@
-### Welcome to DataRescue SF Bay Feb 11 2017! Please: 
+## Welcome to DataRescue SF Bay Feb 11 2017! Please: 
 
 * **Review the [Code of Conduct](https://docs.google.com/document/d/1bmMTOCgzZslkQwy03NoqX4pEFFDFyMoEQDro7h35E7c/edit)**
-* **Join the Slack: https://datarescuesf-slack.herokuapp.com,**
+* **Join the Slack: https://datarescuesf-slack.herokuapp.com**
 * **Familiarize yourself with the four tracks, and think about which you would join:** 
   * 1) Web archiving, 2) Data archiving, 3) Storytelling, 4) Long Tail / Next Steps
 * **On the day of the event, sign in at the registration table @ BIDS, and listen for intro @ 9:30** (*FYI* Storytelling & Long Tail / Next Steps might not convene until the afternoon)
@@ -19,7 +19,7 @@
 
 ### 2) Data archiving: contribute to [DataRefuge.org](https://www.datarefuge.org), a CKAN instance. 
 * EITHER have deep domain knowledge of scientific datasets, OR be a librarian, OR be a skilled technologist in a programming language of your choice (eg python, javascript, c, java, etc), knowledge of the command line (bash, shell, powershell), experience working with structured data (eg json formatting). Experience in front-end web development a plus. 
-* Goals: archive data from USGS, other datasets waiting in the queue, etc. 
+* Goals: archive data from USGS and other datasets waiting in the queue. 
 * **To join this track:** 
   * Join the #data-archiving slack channel
   * DM a guide your email address for an invite to the pipeline app
