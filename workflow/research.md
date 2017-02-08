@@ -1,6 +1,6 @@
 # Research
 
-You need to be logged in to the pipeline app to follow this! If you have not yet gotten an invite to the app, DM a guide in the data-archiving Slack channel.
+You need to be logged in to the pipeline app to follow this! If you have not yet gotten an invite to the app, DM a guide in the #data-archiving Slack channel.
 
 ## Step 1: Claiming a dataset to research
 
