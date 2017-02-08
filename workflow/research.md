@@ -1,10 +1,10 @@
 # Research
 
-You need to be logged in to the app to follow this! Your event co-ordinators should have given you instructions about how to get an invite; or look in your event-specific repo (usually named "DataRescuePLACENAME") within this github organization.
+You need to be logged in to the pipeline app to follow this! If you have not yet gotten an invite to the app, DM a guide in the data-archiving Slack channel.
 
 ## Step 1: Claiming a dataset to research
 
-As soon as they're seeded by the seeding group, URL's get added to the [Data Rescue Archivers App](https://www.archivers.space). "Research" is the first phase of this process. Scroll or search through the list for a URL that seems appropriate (to your area of expertise, topical focus of the day's event, etc.). Make sure the URL has not been "checked out" by anyone else -- the `user` field should be blank.
+As soon as they're seeded by the web archivers, URLs get added to the [Archivers Pipeline App](https://www.archivers.space). "Research" is the first phase of this process. Scroll or search through the list for a URL that seems appropriate (to your area of expertise or assigned a high priority, etc.). Make sure the URL has not been "checked out" by anyone else -- the `user` field should be blank.
 
 Click on the `URL` field to inspect the URL & learn enough about it to answer the questions in this section. Click on the `UUID` field to be brought to the app's record page for that URL, click the large blue `Checkout this URL` button, and begin working.
 
