@@ -1,6 +1,6 @@
 # DataRescue SF Bay Workflow
 
-This document explains the process that a url/dataset goes through from the time it has been nominated by a [web archiver (seeder)](seednsort.md), until it is _either_ made available as a record in a [CKAN data catalog](https://ckan.org/), or sent to the [Internet Archive](https://www.archive.org) as a seed for their [End of Term Crawl](http://freegovinfo.info/node/11477). The process involves several distinct stages, and is designed to maximize smooth hand-offs so that each phase is handled by someone with distinct expertise in the area they're tackling, while the data is always being tracked for security.
+This document explains the process that a URL/dataset goes through from the time it has been nominated by a [web archiver (seeder)](seednsort.md), until it is _either_ sent to the [Internet Archive](https://www.archive.org) as a seed for their [End of Term Crawl](http://freegovinfo.info/node/11477) or made available as a record in a [CKAN data catalog](https://ckan.org/). The process is designed to maximize smooth hand-offs so that each phase is handled by someone with distinct expertise in the area they're tackling, while the data is always being tracked for security.
 
 ## Before you Begin
 We are so glad that you are participating in this project! Please make sure you've already read the [Event Guide](../README.md) and picked a track to join.
@@ -29,7 +29,7 @@ From this stage on, progress is tracked exclusively through the [Data Rescue Arc
 
 ## Storytelling & Next Steps (i.e. the "Long Tail")
 
-Data Rescue is a coalition and a movement. When the event is over, and exhaustion is setting in over a couple of rounds...there is still work to do. If you are willing to keep participating in this important work, please join our Storytelling & Next Step tracks and make sure you are connected with our partner organizations before you leave.
+Data Rescue is a coalition and a movement. When the event is over, and exhaustion is setting in over a couple of rounds...there is still work to do! If you're willing to keep participating in this important work, please join our Storytelling & Next Step tracks and make sure you are connected with our partner organizations before you leave.
 
 ## Partners
-This event is part of a broad, grassroots effort with support from numerous local and nationwide networks. Thanks particularly to [EDGI](https://envirodatagov.org/) and [Data Refuge](http://www.ppehlab.org/datarefuge/) for their leadership, to [the Berkeley Institute for Data Science](https://bids.berkeley.edu) for hosting us, the many organizations and private donors, and to all of you!
+This event is part of a broad, grassroots effort with support from numerous local and nationwide networks. Thanks particularly to [EDGI](https://envirodatagov.org/) and [Data Refuge](http://www.ppehlab.org/datarefuge/) for their leadership, to [the Berkeley Institute for Data Science](https://bids.berkeley.edu) for hosting us, the many organizations and private donors who contributed, and to all of you!
