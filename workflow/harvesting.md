@@ -1,4 +1,4 @@
-# Data Archiving (aka "Harvesting")
+# Harvesting
 
 Harvesting follows directly after [research](research.md), and it is not uncommon for the same person to perform both steps. Harvesters use any one of several [tools and techniques](https://github.com/edgi-govdata-archiving/harvesting-tools/) to acquire datasets that have been investigated by Seeders and Researchers.
 
