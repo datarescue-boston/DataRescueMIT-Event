@@ -1,17 +1,17 @@
-# Harvesting
+# Data Archiving (aka "Harvesting")
 
-Harvesting follows directly after [research](research.md), and it is not uncommon for the same person to perform both steps. Harvesters use any one of several [techniques](https://github.com/edgi-govdata-archiving/harvesting-tools/) to acquire datasets that have been investigated by Seeders and Researchers. This is a complex task that can require substantial technical expertise, and that requires different techniques for different tasks.
+Harvesting follows directly after [research](research.md), and it is not uncommon for the same person to perform both steps. Harvesters use any one of several [tools and techniques](https://github.com/edgi-govdata-archiving/harvesting-tools/) to acquire datasets that have been investigated by Seeders and Researchers.
 
 You need to be logged in to the [Archivers Pipeline App](https://www.archivers.space) to follow this! If you have not yet gotten an invite to the app, DM a guide in the #data-archiving Slack channel.
 
 ## "Meaningful Datasets"
 
-- Your role is to harvest datasets that are complete and *meaningful*. By meaningful we mean: "will the collection make sense to a scientist"? 
+- Your role is to harvest datasets that are complete and *meaningful*. By meaningful, we mean: "will the collection make sense to a scientist?"
 - For instance, if a dataset is composed of a spreadsheet without any accompanying key or explanation of what the data represents, it might be completely impossible for a scientist to use it.
   
 ## Claiming a Dataset to Harvest
 
-From the main app interface, click on the "Harvesting" tab and choose any any record by clicking on the UUID field (or just continue working on the one you were researching, if you are doing both roles). Read the Research notes to get a sense of whether you have the right skills/interest to harvest this dataset. As with researching, be sure to click `Checkout this URL` so that you can edit the fields. 
+From the main app interface, click on the "Harvesting" tab and choose any record by clicking on the UUID field (or just continue working on the one you were researching, if you are doing both roles). Read the Research notes to get a sense of whether you have the right skills/interest to harvest this dataset. As with researching, be sure to click `Checkout this URL` so that you can edit the fields.
 
 ## Check the Terms of Service!!!
 
@@ -43,10 +43,10 @@ More colloquially:
 
 
 ### [id].html file
-The Zip Starter will create an HTML file in the directory. The html file gives the archive a snapshot of the page at the time of archiving which we can use to monitor for changing data in the future, and corrobrate the provenance of the archive itself. We can also use the .html in conjunction with the scripts you'll include in the tools directory to replicate the archive in the future.
+The Zip Starter will create an HTML file in the directory. The html file gives the archive a snapshot of the page at the time of archiving which we can use to monitor for changing data in the future, and corroborate the provenance of the archive itself. We can also use the .html in conjunction with the scripts you'll include in the tools directory to replicate the archive in the future.
 
 ### [id].json file
-You'll need to inspect the .json manifest to be sure all fields are correct. This file contains vital data, including the url that was archived, and date of archiving. The manifest should contain the following fields:
+You'll need to inspect the .json manifest to be sure all fields are correct. This file contains vital data, including the url that was archived and date of archiving. The manifest should contain the following fields:
 
 	{
 		"Individual source or seed URL": "",
@@ -69,7 +69,7 @@ See the [harvesting tools](https://github.com/edgi-govdata-archiving/harvesting-
 - Leave the data unmodified. During the process you may feel inclined to clean things up, add structure to the data, etc. Avoid temptation. Your finished archive will be hashed so we can compare it later for changes, and it's important that we archive original, unmodified content.
 
 ## Upload the Data
-- Zip the all the files pertaining to your dataset, so that you have a resulting zip file. Upload the Zip file using the `Upload` button.
+- Zip the [uuid] directory, which should contain all the files pertaining to your dataset (including the tools you used to download the data). Upload the resulting zip file using the `Upload` button.
 
 ## Finish Up
 - Be sure to `Checkout` the URL.
