@@ -21,7 +21,7 @@
 * EITHER have deep domain knowledge of scientific datasets, OR be a librarian, OR be a skilled technologist in a programming language of your choice (eg python, javascript, c, java, etc), knowledge of the command line (bash, shell, powershell), experience working with structured data (eg json formatting). Experience in front-end web development a plus. 
 * Goals: archive data from USGS and other datasets waiting in the queue. 
 * **To join this track:** 
-  * Join the #data-archiving slack channel
+  * Join the #data-archiving slack channel (and optionally the #data-archiving-research channel)
   * DM a guide your email address for an invite to the pipeline app
   * Please use the same username for both slack and app ("firstnamelastname" or whatever you are comfortable with having online)
   * For the research phase, follow the [research instructions](./workflow/research.md)
