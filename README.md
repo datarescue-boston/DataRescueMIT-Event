@@ -24,7 +24,8 @@
   * Join the #data-archiving slack channel
   * DM a guide your email address for an invite to the pipeline app
   * Please use the same username for both slack and app ("firstnamelastname" or whatever you are comfortable with having online)
-  * Follow the [data archiving instructions](./workflow/harvesting.md)
+  * For the research phase, follow the [research instructions](./workflow/research.md)
+  * For the harvesting phase, follow the [harvesting instructions](./workflow/harvesting.md)
 
 ### 3) Storytelling
 * You should have a penchant for developing compelling narratives and/or social media strategies
