@@ -12,8 +12,7 @@
 * In this track you will be working through federal websites to identify important data and figure out what we need to do with it. You should have familiarity with a web browser and attention to detail. 
 * Goals: secure websites from offices of DOE, EPA, DOI, etc. 
 * **To join this track:** 
-  * Download the [Internet Archive’s Wayback Machine Chrome extension](https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak) (checks last stored copy of a page)
-  * Download our [Chrome extension](https://chrome.google.com/webstore/detail/nominationtool/abjpihafglmijnkkoppbookfkkanklok)
+   * Download our [Chrome extension](https://chrome.google.com/webstore/detail/nominationtool/abjpihafglmijnkkoppbookfkkanklok)
   * Review the overview of each agency: https://envirodatagov.org/agency-forecasts/
   * Join the #web-archiving slack channel
   * Follow the [Web Archiving Workflow](https://docs.google.com/document/d/1JWzkO0eSJRin4EQeGb4G5ei9xaQGBqYHdRTUoa39kJY/edit)
