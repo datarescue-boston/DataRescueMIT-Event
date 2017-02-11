@@ -5,7 +5,7 @@
 * **Familiarize yourself with the four tracks, and think about which you would join:** 
   * 1) Web archiving, 2) Data archiving, 3) Storytelling, 4) Long Tail / Next Steps
 * **On the day of the event, sign in at the registration table @ BIDS, and listen for intro @ 9:30** (*FYI* Storytelling & Long Tail / Next Steps will convene until the afternoon)
-* **Do you have have subject matter expertise in federal agency data? You can be a Maven! Pick up some Mardi Gras beads at registration and join any team you'd like. Please also join the #mavens slack channel. **
+* **Do you have have subject matter expertise in federal agency data? You can be a Maven! Pick up some Mardi Gras beads at registration and join any team you'd like. Please also join the #mavens slack channel.**
 
 ## Choose a track
 
