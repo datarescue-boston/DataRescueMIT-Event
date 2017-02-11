@@ -35,7 +35,7 @@
 ### 4) Long Tail / Next Steps
 * For newbies and veterans alike
 * Goals: discuss / spec out the next 3 to 6 months of tech development plans as we move beyond collection; discuss security, resiliency, redundancy. See [next steps doc](./next-steps.md) and [accompanying technical discusison](https://github.com/edgi-govdata-archiving/pagefreezer-cli) for more details
-* **To join this track:** join the #long-tail slack channel
+* **To join this track:** join the #next-steps slack channel
 
 ****
 
