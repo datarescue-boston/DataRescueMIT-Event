@@ -16,7 +16,7 @@
    * Download our [Chrome extension](https://chrome.google.com/webstore/detail/nominationtool/abjpihafglmijnkkoppbookfkkanklok)
   * Join the #web-archiving slack channel. If you're a Maven, also join the #web-primers slack channel.
   * Follow the [Web Archiving Workflow](https://docs.google.com/document/d/1JWzkO0eSJRin4EQeGb4G5ei9xaQGBqYHdRTUoa39kJY/edit)
-  * You will join a group with a guide and will be assigned to work on a subsection of NASA or DOE. You can review overviews of all agencies here: https://envirodatagov.org/agency-forecasts/ (but note that you will only be working on NASA and DOE)
+  * You will join a group with a guide and will be assigned to work on a subsection of NASA or DOE.
 
 ### 2) Data archiving: contribute to [DataRefuge.org](https://www.datarefuge.org), a CKAN instance. ("Harvesting" and "Researching")
 * EITHER have deep domain knowledge of scientific datasets, OR be a librarian, OR be a skilled technologist in a programming language of your choice (eg python, javascript, c, java, etc), knowledge of the command line (bash, shell, powershell), experience working with structured data (eg json formatting). Experience in front-end web development a plus. 
