@@ -8,7 +8,7 @@
 
 ## Choose a track
 
-### 1) Web archiving: contribute to the [Internet Archive’s End of Term archive](http://eotarchive.cdlib.org/2016.html). 
+### 1) Web archiving: contribute to the [Internet Archive’s End of Term archive](http://eotarchive.cdlib.org/2016.html). ("Seeding")
 * In this track you will be working through federal websites to identify important data and figure out what we need to do with it. You should have familiarity with a web browser and attention to detail. 
 * Goals: secure websites from offices of DOE, EPA, DOI, etc. 
 * **To join this track:** 
@@ -17,7 +17,7 @@
   * Review the overview of each agency: https://envirodatagov.org/agency-forecasts/
   * Join the #web-archiving slack channel
 
-### 2) Data archiving: contribute to [DataRefuge.org](https://www.datarefuge.org), a CKAN instance. 
+### 2) Data archiving: contribute to [DataRefuge.org](https://www.datarefuge.org), a CKAN instance. ("Harvesting" and "Researching")
 * EITHER have deep domain knowledge of scientific datasets, OR be a librarian, OR be a skilled technologist in a programming language of your choice (eg python, javascript, c, java, etc), knowledge of the command line (bash, shell, powershell), experience working with structured data (eg json formatting). Experience in front-end web development a plus. 
 * Goals: archive data from USGS and other datasets waiting in the queue. 
 * **To join this track:** 
