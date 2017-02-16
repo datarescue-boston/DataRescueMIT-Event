@@ -1,7 +1,7 @@
-## Welcome to DataRescue SF Bay Feb 11 2017! Please: 
+## Welcome to DataRescue Boston @ MIT Feb 18 2017! Please: 
 
 * **Review the [Code of Conduct](https://docs.google.com/document/d/1bmMTOCgzZslkQwy03NoqX4pEFFDFyMoEQDro7h35E7c/edit)**
-* **Join the Slack: https://datarescuesf-slack.herokuapp.com**
+* **Join the Slack: https://datarescuemit.herokuapp.com**
 * **Familiarize yourself with the four tracks, and think about which you would join:** 
   * 1) Web archiving, 2) Data archiving, 3) Storytelling, 4) Long Tail / Next Steps
 * **On the day of the event, sign in at the registration table @ BIDS, and listen for intro @ 9:30** (*FYI* Storytelling & Long Tail / Next Steps will convene until the afternoon)
